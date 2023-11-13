@@ -1,0 +1,100 @@
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: Cup
+    I don't always test my code, but when I do, I do it in production.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: Cup
+    The best thing about a boolean is even if you are wrong, you are only off by a bit.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: Cup
+    When I find a bug, I fix it. When I can't fix it, I comment it out.
+Message received from: Car
+    Come on get in lets go
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: Cup
+    null
+Message received from: Car
+    Come on get in lets go
+Message received from: null
+    A New user Named Cloud and with a unique id no. 4 has joined the communication system.
+Message received from: null
+    A New user Named Cloud and with a unique id no. 5 has joined the communication system.
+Message sent to: Cup
+    Testing
+Message received from: Cup
+    My code's so clean, it makes my laundry jealous.
+Message received from: Car
+    Come on get in lets go
